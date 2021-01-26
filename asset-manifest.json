@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/learneverythininreactonline/static/css/main.965a89b6.chunk.css",
+    "main.js": "/learneverythininreactonline/static/js/main.94941b93.chunk.js",
+    "main.js.map": "/learneverythininreactonline/static/js/main.94941b93.chunk.js.map",
+    "runtime-main.js": "/learneverythininreactonline/static/js/runtime-main.ae2eddad.js",
+    "runtime-main.js.map": "/learneverythininreactonline/static/js/runtime-main.ae2eddad.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/learneverythininreactonline/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.501b81d8.chunk.js": "/learneverythininreactonline/static/js/2.501b81d8.chunk.js",
+    "static/js/2.501b81d8.chunk.js.map": "/learneverythininreactonline/static/js/2.501b81d8.chunk.js.map",
+    "index.html": "/learneverythininreactonline/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/learneverythininreactonline/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.965a89b6.chunk.css.map": "/learneverythininreactonline/static/css/main.965a89b6.chunk.css.map",
+    "static/js/2.501b81d8.chunk.js.LICENSE.txt": "/learneverythininreactonline/static/js/2.501b81d8.chunk.js.LICENSE.txt",
+    "static/media/ReactJSDevelopment.0019aa8d.jpg": "/learneverythininreactonline/static/media/ReactJSDevelopment.0019aa8d.jpg",
+    "static/media/abouthero.ce95b7d0.svg": "/learneverythininreactonline/static/media/abouthero.ce95b7d0.svg",
+    "static/media/cardimage.0019aa8d.jpg": "/learneverythininreactonline/static/media/cardimage.0019aa8d.jpg",
+    "static/media/componentreact.0648d164.jpg": "/learneverythininreactonline/static/media/componentreact.0648d164.jpg",
+    "static/media/github.4de7e6d5.jpg": "/learneverythininreactonline/static/media/github.4de7e6d5.jpg",
+    "static/media/hero.45a6df92.svg": "/learneverythininreactonline/static/media/hero.45a6df92.svg",
+    "static/media/heroo.1f92353d.svg": "/learneverythininreactonline/static/media/heroo.1f92353d.svg",
+    "static/media/reacthooksr.ed582ce4.jpg": "/learneverythininreactonline/static/media/reacthooksr.ed582ce4.jpg",
+    "static/media/reactroutss.0019aa8d.jpg": "/learneverythininreactonline/static/media/reactroutss.0019aa8d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae2eddad.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.501b81d8.chunk.js",
+    "static/css/main.965a89b6.chunk.css",
+    "static/js/main.94941b93.chunk.js"
+  ]
+}
